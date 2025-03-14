@@ -37,10 +37,11 @@ header .menu{
 }
 
 header .logo{
-    position: absolute;
+    position: relative;
     width: 90px;
     height: 20px;
-    left: 80px;
+    top: 2px;
+    left: 50px;
 }
 
 main{
