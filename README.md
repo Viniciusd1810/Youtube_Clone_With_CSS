@@ -1,3 +1,4 @@
 # Youtube_Clone_With_CSS
 
-![image](https://github.com/user-attachments/assets/a190f93b-32be-49d1-aa9c-9ee39b840f5f)
+![image](https://github.com/user-attachments/assets/c6060bf3-c870-4359-b72e-e40a9ee9b23d)
+
