@@ -67,3 +67,15 @@ main{
     line-height: 100%;
     color: rgb(59, 59, 59);
 }
+
+h3.video-title{
+    margin: 0;
+}
+
+p.channel-name{
+    margin: 0;
+}
+
+p.channel-subs{
+    margin: 0;
+}
