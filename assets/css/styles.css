@@ -260,3 +260,15 @@ header .center{
     width: 250px;
     height: 140px;
 }
+
+.text-video-grid{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2px;
+}
+
+span p{
+    position: relative;
+    left: 44px;
+    padding: 2px;
+}

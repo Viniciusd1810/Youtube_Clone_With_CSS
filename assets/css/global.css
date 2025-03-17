@@ -71,17 +71,17 @@ main{
 .video-grid p{
     font-family: "Roboto";
     font-weight: 400;
-    size: 14px;
+    size: 12px;
     line-height: 100%;
-    margin: 0;
-    padding: 5px;
+    margin: 0 auto;
 }
 
 .video-grid h3{
     font-family: "Roboto";
     font-weight: 900;
-    size: 20px;
+    size: 16px;
     line-height: 100%;
-    margin: 0;
-    padding: 5px;
+    margin: 0 auto;
+    padding-left: 4px;
+    width: 200px;
 }
