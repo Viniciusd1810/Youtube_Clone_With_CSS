@@ -67,3 +67,21 @@ main{
     line-height: 100%;
     color: rgb(59, 59, 59);
 }
+
+.video-grid p{
+    font-family: "Roboto";
+    font-weight: 400;
+    size: 14px;
+    line-height: 100%;
+    margin: 0;
+    padding: 5px;
+}
+
+.video-grid h3{
+    font-family: "Roboto";
+    font-weight: 900;
+    size: 20px;
+    line-height: 100%;
+    margin: 0;
+    padding: 5px;
+}
