@@ -74,6 +74,7 @@ main{
     size: 12px;
     line-height: 100%;
     margin: 0 auto;
+    padding: 0;
 }
 
 .video-grid h3{
