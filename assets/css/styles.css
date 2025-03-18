@@ -269,6 +269,6 @@ header .center{
 
 span p{
     position: relative;
-    left: 44px;
-    padding: 2px;
+    left: 42px;
+    padding-left: 4px;
 }
