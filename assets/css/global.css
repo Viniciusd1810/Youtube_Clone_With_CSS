@@ -85,3 +85,9 @@ main{
     padding-left: 4px;
     width: 200px;
 }
+
+.menu-items{
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 14px;
+}

@@ -1,4 +1,4 @@
-@import url(/assets/css/global.css);
+@import url(global.css);
 
 body{
     background-color: #ffffff;
@@ -241,6 +241,11 @@ header .center{
 .side-menu{
     width: 218px;
     height: 968px;
+    padding: 16px;
+}
+
+.side-menu svg{
+    padding-bottom: 36px;
 }
 
 .main-grid{
@@ -249,6 +254,7 @@ header .center{
     left: 246px;
     grid-template-columns: repeat(4, 282px);
     grid-template-rows: repeat(4, 282px);
+    background-color: rgb(255, 247, 247);
 }
 
 .video-grid{
