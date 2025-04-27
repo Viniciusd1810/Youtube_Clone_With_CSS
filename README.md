@@ -1,4 +1,5 @@
 # Youtube Clone With CSS
+Reproduced the YouTube homepage and video page using HTML and CSS, focusing on adaptive layouts and design accuracy. I started using a figma model from 2022, but i add some atual 2025 youtube layout styles
 
 The project was supposed to be only the video page, but i added the index page. 
 
